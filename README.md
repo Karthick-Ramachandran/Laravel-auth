@@ -1,6 +1,6 @@
 # Laravel-auth
 Laravel Auth API
-
+<!--
 
 
 <?php
@@ -166,3 +166,4 @@ class ApiRegisterController extends Controller
     }
 }
 
+-->
